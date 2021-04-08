@@ -72,4 +72,4 @@ To get Further help you can visit the official python ,django, django_graphene d
 
 ## Licence
 
-MIT (c) 2021 Daniel Mawioo
+[MIT License](LICENSE) (c) 2021 Daniel Mawioo
